@@ -1,7 +1,3 @@
-body{
-    
-}
-
 .navbar{
     background-color: #688A08;
 }
@@ -13,4 +9,15 @@ body{
 
 .margin{
     padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.parceiros{
+    background-color: blue;
+    color: white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
 }
